@@ -1,5 +1,14 @@
 # Release Notes
 
+## v1.0.3 (2023-02-26)
+
+### Fixed
+
+-   navbar menu (web)
+-   hamburger button => lg:hidden (web)
+-   nav => lg:block lg:static lg:bg-transparent lg:max-w-full lg:shadow-none lg:rounded-none (web)
+-   ul => lg:flex (web)
+
 ## v1.0.2 (2023-02-26)
 
 ### Fixed
