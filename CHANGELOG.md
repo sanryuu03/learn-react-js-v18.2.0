@@ -1,5 +1,12 @@
 # Release Notes
 
+## v1.0.2 (2023-02-26)
+
+### Fixed
+
+-   navbar (web)
+-   karna tidak ada di tailwind maka tulis property cssnya manual
+
 ## v1.0.1 (2023-02-25)
 
 ### Fixed
